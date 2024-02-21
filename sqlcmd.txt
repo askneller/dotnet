@@ -1,0 +1,4 @@
+# Done't run as .bat file, doesn't stop
+# Run from Command Prompt
+
+sqlcmd -S DESKTOP-F9QQ2GR\MSSQLSERVER01 -E
